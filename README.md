@@ -62,7 +62,7 @@ This project showcases an interactive **E-commerce Sales Dashboard** built using
 ---
 
 ## Dashboard Screenshot
-![E-commerce Sales Dashboard](dashboard_screenshot.png)
+![E-commerce Sales Dashboard]([Screenshot of dashboard.png](https://github.com/gouravwaskle24/E-commerce-Sales-Dashboard/blob/main/Screenshot%20of%20dashboard.png))
 
 ---
 
